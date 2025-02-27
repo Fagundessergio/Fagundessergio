@@ -28,7 +28,7 @@ Sou um desenvolvedor apaixonado com foco em front-end e análise de dados. Atual
 - Automação: Desenvolvo soluções automatizadas para otimizar processos e melhorar a eficiência, utilizando ferramentas como Python e Selenium.
 ---
 ### Projetos Recentes em Python 🧑🏽‍💻
-* **Analise de dados**: Projeto simples com foco wm analisar dados sobre turbinas de energia eolica e visualização usando Python e Pandas
+* **Analise de dados**: Projeto simples com foco wm analisar dados sobre vendas e reviews de livros na Amazon, utilizando Pandas e Streamlit
 * **Bot exportação**: Automatização de exportação de relatórios em um sistema web, utilizando Python e Selenium
 * **Comparação de Preços**: Um sistema simples de comparação de preços de apartamentos feitos utilizando as bibliotecas Matplotlib e CustomTkinter
 
